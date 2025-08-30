@@ -17,7 +17,7 @@
     --cor5: #063d1e;
     --fonte-padrao: arial, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --font-android: 'android', sans-serif;
+    --fonte-android: 'android', sans-serif;
 }
 
 * {
@@ -141,13 +141,13 @@ main {
 
 main h1 {
     color: var(--cor5);
-    font-family: 'android';
+    font-family: android;
     font-weight: normal;
     font-size: 1.8;
 }
 
 main h2 {
-    font-family: 'android';
+    font-family: android;
     font-weight: normal;
     color: var(--cor4);
     font-size: 1.3em;
