@@ -144,10 +144,12 @@ main h1 {
     color: var(--cor5);
     font-weight: bold;
     font-size: 1.8;
+    letter-spacing: 2px;
 }
 
 main h2{
     font-family: var(--fonte-android); 
+    letter-spacing: 2px;
     font-weight: bolder;
     color: var(--cor4);
     font-size: 1.3em;
