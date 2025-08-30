@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'android';
-    src: url(/fontes/idroid.otf) format(opentype);
+    src: url('/fontes/idroid.otf') format(opentype);
     font-weight: normal;
 }
 
@@ -140,14 +140,14 @@ main {
 
 
 main h1 {
+    font-family: 'android';
     color: var(--cor5);
-    font-family: android;
     font-weight: normal;
     font-size: 1.8;
 }
 
-main h2 {
-    font-family: android;
+main h2{
+    font-family: 'android'; 
     font-weight: normal;
     color: var(--cor4);
     font-size: 1.3em;
