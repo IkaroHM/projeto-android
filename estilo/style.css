@@ -140,15 +140,15 @@ main {
 
 
 main h1 {
-    font-family: var(--fonte-destaque);
+    font-family: sans-serif;
     color: var(--cor5);
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.8;
 }
 
 main h2{
-    font-family: var(--fonte-destaque); 
-    font-weight: normal;
+    font-family: sans-serif; 
+    font-weight: bold;
     color: var(--cor4);
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
